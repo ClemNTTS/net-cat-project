@@ -1,4 +1,4 @@
-<img src="https://github.com/ClemNTTS/net-cat-project/assets/161344481/3da84aaa-5ac3-4aaf-aade-cad8471e3f99" alt="image description" width="100"/>
+<img src="https://github.com/ClemNTTS/net-cat-project/assets/161344481/3da84aaa-5ac3-4aaf-aade-cad8471e3f99" alt="image description" width="130"/>
 
 
 # NET-CAT project
