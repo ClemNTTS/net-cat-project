@@ -1,0 +1,44 @@
+2024/07/08 11:40:46.648912 serv.go:23: new session
+2024/07/08 11:40:46.649155 serv.go:32: Listening on :8080 port...
+2024/07/08 11:41:12.996950 serv.go:23: new session
+2024/07/08 11:41:33.498867 serv.go:23: new session
+2024/07/08 11:41:33.500124 serv.go:32: Listening on :2525 port...
+2024/07/08 11:42:03.702168 serv.go:23: new session
+2024/07/08 11:42:03.703291 serv.go:32: Listening on :2525 port...
+2024/07/08 11:42:47.019311 func.go:43: Nouvelle connection de  Clem
+2024/07/08 11:42:52.779341 func.go:74: 11:42:52 Clem : Bonjour
+2024/07/08 11:42:58.296581 func.go:43: Nouvelle connection de  Arnaud
+2024/07/08 11:43:01.214801 func.go:74: 11:43:01 Arnaud : Test
+2024/07/08 11:44:52.784674 func.go:65: Clem s'est déconnecté
+2024/07/08 11:45:01.222479 func.go:65: Arnaud s'est déconnecté
+2024/07/08 11:45:19.523432 serv.go:23: new session
+2024/07/08 11:45:19.524272 serv.go:32: Listening on 172.16.1.78:8080 port...
+2024/07/08 11:46:03.580257 func.go:43: Nouvelle connection de  What
+2024/07/08 11:46:04.528024 func.go:74: 11:46:04 What : qsf
+2024/07/08 11:46:04.888517 func.go:74: 11:46:04 What : ds
+2024/07/08 11:46:05.217234 func.go:74: 11:46:05 What : qsd
+2024/07/08 11:46:05.428817 func.go:74: 11:46:05 What : qsd
+2024/07/08 11:46:05.638714 func.go:74: 11:46:05 What : qsd
+2024/07/08 11:46:05.832151 func.go:74: 11:46:05 What : qsd
+2024/07/08 11:46:16.015803 func.go:74: 11:46:16 What : qs
+2024/07/08 11:46:16.969548 func.go:65: What s'est déconnecté
+2024/07/08 11:48:45.957930 serv.go:23: new session
+2024/07/08 11:48:45.959031 serv.go:32: Listening on 192.168.145.104:8080 port...
+2024/07/08 11:48:53.000801 func.go:43: Nouvelle connection de  Nathan
+2024/07/08 11:48:55.950756 func.go:74: 11:48:55 Nathan : t
+2024/07/08 11:48:56.490387 func.go:74: 11:48:56 Nathan : dr
+2024/07/08 11:48:56.590655 func.go:74: 11:48:56 Nathan : gfd
+2024/07/08 11:48:56.663246 func.go:74: 11:48:56 Nathan : gfd
+2024/07/08 11:48:56.838761 func.go:74: 11:48:56 Nathan : gfd
+2024/07/08 11:48:56.914163 func.go:74: 11:48:56 Nathan : gf
+2024/07/08 11:48:57.023073 func.go:74: 11:48:57 Nathan : gf
+2024/07/08 11:48:57.206341 func.go:74: 11:48:57 Nathan : gf
+2024/07/08 11:49:11.312366 func.go:43: Nouvelle connection de  CLem
+2024/07/08 11:49:20.211208 func.go:74: 11:49:20 CLem : mon truc est solide
+2024/07/08 11:50:06.601525 func.go:74: 11:50:06  Nathan : éééé
+2024/07/08 11:50:08.865248 func.go:74: 11:50:08  Nathan : è
+2024/07/08 11:50:09.057654 func.go:74: 11:50:09  Nathan : èè
+2024/07/08 11:50:09.271778 func.go:74: 11:50:09  Nathan : 
+2024/07/08 11:50:46.827220 func.go:65: CLem s'est déconnecté
+2024/07/08 11:51:00.015640 func.go:74: 11:51:00  Nathan : tg
+2024/07/08 11:51:03.531112 func.go:74: 11:51:03  Nathan : t
